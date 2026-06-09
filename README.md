@@ -59,11 +59,4 @@ User Browser ──(HTTPS: 443)──> Nginx Reverse Proxy (SSL Termination)
 
 License:
 This project was developed as part of a DevOps deployment pipeline assessment.
-Prepared by: Sonu Kumar Jha
-
- ### What to do next:
-1. **Paste** the code block above into the empty file space on GitHub.
-2. Click the green **"Commit changes..."** button in the top right corner of your screen.
-3. Click **"Commit"** again to save it to your `main` branch. 
-
-Your repository will look flawless and fully complete!
+Prepared by: Sonu Kumar jha 
